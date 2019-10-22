@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CS3270A5_Tatton</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="practice_making_change">Practice Making Change</string>
+    <string name="change_to_make">Change to Make</string>
+    <string name="fifty_dollars">$50</string>
+    <string name="twenty_dollars">$20</string>
+    <string name="ten_dollars">$10</string>
+    <string name="five_dollars">$5</string>
+    <string name="one_dollar">$1</string>
+    <string name="fifty_cent">.50</string>
+    <string name="quarter">.25</string>
+    <string name="dime">.10</string>
+    <string name="nickel">.05</string>
+    <string name="penny">.01</string>
+    <string name="start_over">Start Over</string>
+    <string name="new_amount">New Amount</string>
+    <string name="set_change_max">Set Change Max</string>
+    <string name="reset_correct_count">Reset Correct Count</string>
+    <string name="change_total_so_far">Change Total so Far: </string>
+    <string name="max_change">Maximum Change Amount</string>
+    <string name="maximum_change_amount">Maximum Change Amount</string>
+    <string name="save">SAVE</string>
+    <string name="correct_change_count">0</string>
+    <string name="text_correct_change">Correct Change Count</string>
+</resources>
